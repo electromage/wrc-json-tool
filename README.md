@@ -19,12 +19,7 @@ Arrays present in the file:
 
 ### Usage Guide for getUsers.sh
 
-This script extracts user data from a specified JSON file and formats it either as a tabular output in the terminal or as a CSV file. It's designed to work with JSON files that contain a userList array.
-
-**Prerequisites**
-
-Ensure you have jq installed on your system, as this script relies on it to parse JSON files. You can install jq via package managers like apt for Ubuntu or brew for macOS.
-Script Options
+**Script Options**
 
 * Terminal Table Output: By default, the script outputs a formatted table to the terminal.
 * CSV File Output: Optionally, the script can output the data to a CSV file.
