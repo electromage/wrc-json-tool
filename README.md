@@ -4,6 +4,7 @@ Tool for extracting various information from WebRadioControl
 wrc-user-data-export-* contains several different JSON arrays, containing the station configuration, and usage information.
 
 Arrays present in the file:
+
     "radioStateList"
     "radioConfigurationItemList"
     "rotatorStateList"
@@ -14,6 +15,8 @@ Arrays present in the file:
     "userList"
     "userSessionList"
     "deviceReservationList"
+
+For more detail see [keys.json](keys.json)
 
 ## Scripts
 
