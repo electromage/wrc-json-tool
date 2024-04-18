@@ -19,16 +19,6 @@ Arrays present in the file:
 
 ### Usage Guide for getUsers.sh
 
-**Script Options**
-
-* Terminal Table Output: By default, the script outputs a formatted table to the terminal.
-* CSV File Output: Optionally, the script can output the data to a CSV file.
-
-**Script Arguments**
-
-* <path-to-json-file>: The path to the JSON file that contains the user data.
-* -c or --csv <output-file.csv>: Optional flag to specify CSV output; include the path where the CSV file should be saved.
-
 **Usage Examples**
 
 1. Output to Terminal:
