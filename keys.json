@@ -1,0 +1,138 @@
+[
+    {
+      "key": "radioStateList",
+      "keys": [
+        "createdAt",
+        "ctcssTone",
+        "ctcssToneSquelch",
+        "dcsCode",
+        "dcsCodeSquelch",
+        "description",
+        "deviceId",
+        "frequency",
+        "id",
+        "index",
+        "mode",
+        "modePassband",
+        "name",
+        "repeaterOffset",
+        "updatedAt",
+        "userId"
+      ]
+    },
+    {
+      "key": "radioConfigurationItemList",
+      "keys": [
+        "createdAt",
+        "deviceId",
+        "id",
+        "index",
+        "name",
+        "type",
+        "updatedAt",
+        "userId"
+      ]
+    },
+    {
+      "key": "rotatorStateList",
+      "keys": []
+    },
+    {
+      "key": "morseCodeMacroList",
+      "keys": [
+        "createdAt",
+        "description",
+        "deviceId",
+        "id",
+        "index",
+        "macroText",
+        "name",
+        "updatedAt",
+        "userId"
+      ]
+    },
+    {
+      "key": "deviceSessionList",
+      "keys": [
+        "createdAt",
+        "deviceId",
+        "deviceType",
+        "id",
+        "parameters",
+        "sessionId",
+        "updatedAt",
+        "userId"
+      ]
+    },
+    {
+      "key": "attributeList",
+      "keys": [
+        "createdAt",
+        "deviceId",
+        "id",
+        "name",
+        "type",
+        "updatedAt",
+        "userId",
+        "value"
+      ]
+    },
+    {
+      "key": "configurationAttributeList",
+      "keys": [
+        "createdAt",
+        "deviceId",
+        "id",
+        "name",
+        "type",
+        "updatedAt",
+        "value"
+      ]
+    },
+    {
+      "key": "userList",
+      "keys": [
+        "callSign",
+        "createdAt",
+        "email",
+        "enabled",
+        "firstName",
+        "id",
+        "lastName",
+        "note",
+        "passwordHash",
+        "reference",
+        "requirePasswordChange",
+        "roles",
+        "updatedAt",
+        "username"
+      ]
+    },
+    {
+      "key": "userSessionList",
+      "keys": [
+        "createdAt",
+        "expiresAt",
+        "id",
+        "updatedAt",
+        "userId"
+      ]
+    },
+    {
+      "key": "deviceReservationList",
+      "keys": [
+        "cancelled",
+        "createdAt",
+        "description",
+        "deviceId",
+        "endTime",
+        "id",
+        "publicDescription",
+        "publicUser",
+        "reservationCode",
+        "startTime",
+        "updatedAt",
+        "userId"
+      ]
+    }
+  ]
